@@ -15,5 +15,5 @@ Este repositório centraliza o acesso aos materiais, códigos e roteiros das dis
 
 ### 🛠️ Como utilizar estes materiais
 1. Navegue até o repositório da sua disciplina e semestre atual.
-2. Os códigos de exemplo estão organizados em pastas numeradas por aula.
+2. Os projetos estão organizados em pastas.
 3. Utilize o botão **"Code" > "Download ZIP"** para baixar os arquivos para o seu computador.
