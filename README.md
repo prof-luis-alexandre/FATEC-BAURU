@@ -1,6 +1,7 @@
-# 🏫 FATEC Bauru - Portal de Disciplinas
+# 🏫 FATEC Bauru - Portal de Projetos Disciplinas
+## LABORATÓRIO DE DESENVOLVIMENTO EM BANCO DE DADOS V
 
-Este repositório centraliza o acesso aos materiais, códigos e roteiros das disciplinas lecionadas na FATEC Bauru.
+Este repositório centraliza o acesso aos materiais, códigos e roteiros da disciplina lecionadas na FATEC Bauru.
 
 ---
 
